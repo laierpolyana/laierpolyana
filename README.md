@@ -1,8 +1,8 @@
 
 <h3 align="center">  <br>
-
-Olá, eu sou a Poly! <br>
-</h3>
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> 
+Olá, eu sou a Poly!
+</h3><br>
 
 <div align="center">
   <a href="https://github.com/laierpolyana">
